@@ -1,0 +1,9 @@
+name: Test2
+version: 1.0.0
+main: com.meldiron.test2.Main
+authors: [Meldiron]
+
+commands:
+  test:
+    aliases: [t]
+    description: Test Command
